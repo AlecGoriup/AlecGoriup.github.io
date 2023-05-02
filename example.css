@@ -1,5 +1,5 @@
 .header {
-    color: red;
+    color: rgb(52, 47, 7);
 }
 
 .subheader {
@@ -14,7 +14,27 @@
     padding-left: 5px;
 }
 
+.bodybox {
+    background: #fae2a0;
+}
+
+.textbox {
+    background: #f7cb52;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
 .nav-option {
-    color: rgb(50, 238, 50);
+    color: rgb(179, 154, 12);
     margin-right: 5px;
 }
+
+.image {
+    width: 370px;
+}
+
+.image2 {
+    width: 200px;
+}
+   
